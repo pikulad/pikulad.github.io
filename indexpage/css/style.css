@@ -290,13 +290,13 @@ nav ul li a {
   font-weight: 700;
   margin-bottom: 10px;
   text-transform: uppercase;
-  color: #fff;
+  color: rgb(0,0,0);
 }
 .header-content h2 {
   font-size: 35px;
   font-weight: 700;
   margin-bottom: 10px;
-  color: rgb(0,0,0);
+  color: rgb(192,192,192);
 }
 
 .header-content p {
@@ -305,7 +305,7 @@ nav ul li a {
   margin-top: 0;
   margin-bottom: 30px;
   text-transform: capitalize;
-  color: #fff;
+  color: rgb(0,0,0);
   font-weight: 500;
 }
 
@@ -315,7 +315,7 @@ nav ul li a {
 }
 
 .header-content .list-social li i {
-  color: #fff;
+  color: rgb(0,0,0);
   font-size: 35px;
 }
 
@@ -428,7 +428,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #section-transition1 {
-  background-image:  url("../images/portfolio/27973596_1058604960945665_4297970911952396464_n.jpg");
+  background-image:  url("img/bali-volcano-priyank.jpg");
   height: 60%;
   background-attachment: fixed;
   background-position: center;
@@ -445,7 +445,7 @@ nav ul li a {
   background-size: cover;
 }
 #section-transition3 {
-  background-image: url("../images/portfolio/20180806-0559.jpg");
+  background-image: url("../images/priyank/priyank_logo.jpg");
   height: 60%;
   background-attachment: fixed;
   background-position: center;
